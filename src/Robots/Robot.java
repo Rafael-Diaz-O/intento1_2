@@ -5,6 +5,7 @@ public abstract class Robot {
     
     private String model;
     private int batteryLevel;
+    String nombre; 
         
     public Robot(){
         this.model = null;
